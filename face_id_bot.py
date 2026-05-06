@@ -5,7 +5,7 @@ from datetime import datetime
 import pytz
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, JobQueue
-BOT_TOKEN = 8372984586:AAEBpZ188bnvZbZuJ3HseMXaqy0ar57Kn-8
+BOT_TOKEN = "8372984586:AAEBpZ188bnvZbZuJ3HseMXaqy0ar57Kn-8"
 YOUR_CHAT_ID = 2058150867
 TIMEZONE = "Asia/Tashkent"
 
